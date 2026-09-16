@@ -17,7 +17,7 @@ Our projects span three main fields:
 - **Satellites**: CubeSats and platforms for scientific research in space
 - **Robotics**: underwater vehicles for exploration and research
 
-This GitHub organization contains software, firmware, simulations, tools, and infrastructure developed by current and former ARIS teams.
+This GitHub organization contains software, firmware, PCBs, simulations, tools, and infrastructure developed by current and former ARIS teams.
 
 ## Join us!
 
